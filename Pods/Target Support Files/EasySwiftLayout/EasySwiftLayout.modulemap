@@ -1,0 +1,6 @@
+framework module EasySwiftLayout {
+  umbrella header "EasySwiftLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_giphyApp {
+  umbrella header "Pods-giphyApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

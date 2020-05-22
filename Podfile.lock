@@ -1,0 +1,50 @@
+PODS:
+  - DeepDiff (2.3.1)
+  - EasySwiftLayout (1.5.1)
+  - Giphy (1.2.9):
+    - DeepDiff
+    - libwebp
+    - PINCache
+  - libwebp (1.1.0):
+    - libwebp/demux (= 1.1.0)
+    - libwebp/mux (= 1.1.0)
+    - libwebp/webp (= 1.1.0)
+  - libwebp/demux (1.1.0):
+    - libwebp/webp
+  - libwebp/mux (1.1.0):
+    - libwebp/demux
+  - libwebp/webp (1.1.0)
+  - PINCache (2.3)
+  - Realm (4.3.2):
+    - Realm/Headers (= 4.3.2)
+  - Realm/Headers (4.3.2)
+  - RealmSwift (4.3.2):
+    - Realm (= 4.3.2)
+
+DEPENDENCIES:
+  - EasySwiftLayout
+  - Giphy
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - DeepDiff
+    - EasySwiftLayout
+    - Giphy
+    - libwebp
+    - PINCache
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  DeepDiff: e5ae6c50d0321568e4508cec5930b9f10bb293fc
+  EasySwiftLayout: 4f68dd653fee6b593cc5b2d0566adb8bd77f2dc6
+  Giphy: 69c3bae5da59c699f222599c877949cf166de726
+  libwebp: 946cb3063cea9236285f7e9a8505d806d30e07f3
+  PINCache: ce36ed282031b92fc7733ffe831f474ff80fddc2
+  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  RealmSwift: 9a360fc7bae04fc2e308a34fbd899d5faa2d6b22
+
+PODFILE CHECKSUM: 2b9f2f66f55017ad96bbbef5a7b3387d2eb0e4cd
+
+COCOAPODS: 1.9.1
